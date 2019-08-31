@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Personnalize</string>
+    <string name="app_name_uppercase">PERSONNALIZE</string>
+    <string name="btn_facebook_signin">Connect with Facebook</string>
+    <string name="btn_gmail_signin">Connect with Gmail</string>
+    <string name="no_file_selected">Aucun fichier selectionné. Veuillez chosir un fichier.</string>
+    <string name="no_document_avalaible">Aucun document disponible sur le serveur.</string>
+    <string name="dialog_builder_title">Delete document</string>
+    <string name="dialog_builder_message">Do you really want delete this document ?</string>
+    <string name="dialog_builder_title_phone">Your phone number</string>
+    <string name="dialog_builder_message_phone">Please inter your phone number that we can use to join you after work has done</string>
+    <string name="detail_activity_mise_en_page">Mise en page dudocument</string>
+    <string name="detail_activity_power_point">Power Point du document</string>
+    <string name="detail_activity_mode">Payement par MTN/MOOV</string>
+    <string name="detail_select_date">  Cliquer ici</string>
+    <string name="detail_select_date_desc">Date de remise:</string>
+    <string name="facebook_app_id">542933056229375</string>
+    <string name="fb_login_protocol_scheme">fb542933056229375</string>
+    <string name="connection_network_failed">Connection to server failed. Please verify your internet connection and try again.</string>
+    <string name="document_upload_success">Document upload successfuly!</string>
+    <string name="document_upload_failded">Document upload Failed! Server not respond.</string>
+    <string name="power_point_option">Option Power Point</string>
+    <string name="mise_en_forme_option">Mise en forme du document</string>
+    <string name="delivery_date">Date de remise</string>
+    <string name="no_date_selected">Aucune date</string>
+    <string name="send_document">Envoyer le document</string>
+    <string name="save_power_point_data">ENREGISTRER LES DONNEES</string>
+    <string name="diapo_idea">Idée principale de la diapositive</string>
+    <string name="diapo_content">Indiquer ici ce que devra contenir cette diapo</string>
+    <string name="diapo_img">Aucune image pour cette diapo</string>
+    <string name="add_diapo_img">Fournir des image pour cette diapositive</string>
+    <string name="nbr_image_diapo">image(s) pour cette diapositive</string>
+    <string name="detail_activity_power_point_edit">Edition du Power Point</string>
+    <string name="detail_activity_mise_en_forme_edit">Mise enforme du document</string>
+    <string name="detail_activity_facture_text">FACTURE</string>
+    <string name="detail_activity_correction_orthographe_text">Correction fautes d\'orthographe</string>
+    <string name="detail_activity_power_point_edition_text">Edition du Power Point du document</string>
+    <string name="detail_activity_mise_en_forme_text">Mise en forme du document</string>
+    <string name="discussion_doc_not_ready">Votre document n\'est pas encore prêt.</string>
+    <string name="discussion_doc_ready">Votre document est prêt.</string>
+    <string name="discussion_doc_not_paid">Vous n\'avez pas encore finalisé votre payement</string>
+    <string name="discussion_doc_paid">Vous avez finalisé votre payement pour ce document</string>
+
+    <string name="discussion_send_doc_paid_ready_false">Vous devez d\'abord finaliser le payement de votre document</string>
+    <string name="discussion_send_doc_paid_true_ready_false">Veuillez patienter... Votre document n\'est pas encore prêt</string>
+    <string name="notification_correction_termine_title">Corrextion terminée</string>
+    <string name="notification_correction_termine_text">La correction du document %1$s est terminée</string>
+    <string name="notification_document_payer_title">Finalisation du payement</string>
+    <string name="notification_document_payer_text">Vous avez finalisé le payement du document %1$s</string>
+    <string name="notification_message_from_team">Nouveau message de l\'équipe Personnalize</string>
+    <string name="notification_message_from_team_title">Personnalize Team</string>
+    <string name="channel_name">document Notification</string>
+    <string name="channel_description">Notification for data update</string>
+    <string name="toolbar_title_chat">Chat</string>
+    <string name="compte_personnalize">Mon compte personnalize</string>
+    <string name="chat_send_message_failed">Impossible d\'envoyer le message. Vérifier votre connexion et réessayer.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

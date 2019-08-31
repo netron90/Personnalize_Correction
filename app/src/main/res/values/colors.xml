@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00796b</color>
+    <color name="colorPrimaryDark">#004c40</color>
+    <color name="colorAccent">#e91e63</color>
+    <color name="colorAccentDark">#af174b</color>
+    <color name="gradientStartColor">#004c40</color>
+    <color name="gradientEndColor">#025e4f</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorLigthWhite">#e9efefef</color>
+    <color name="colorLigthBlack">#b4545454</color>
+    <color name="colorText">#757575</color>
+    <color name="colorDarkhBlack">#df404040</color>
+    <color name="chatBackgroundColor">#f2bee1bf</color>
+</resources>
